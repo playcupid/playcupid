@@ -15,5 +15,5 @@
  <div align='center'> 
  
 
-[ata](https://myles.atabook.org)  ![]() ![]() ![]() ![]() ![]() [rentry](https://rentry.org/) ![]() ![]() ![]() ![]() ![]() [guns](https://guns.lol/fernidy) 
+[ata](https://myles.atabook.org)  ![]() ![]() ![]() ![]() ![]() [rentry](https://rentry.org/) ![]() ![]() ![]() ![]() ![]() [guns](https://guns.lol/xddc) 
 
